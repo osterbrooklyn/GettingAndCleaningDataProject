@@ -1,9 +1,3 @@
----
-
-### 2. Create `CodeBook.md`
-
-Copy this text into a new file named `CodeBook.md` in your project folder:
-
 ```markdown
 # Code Book
 
